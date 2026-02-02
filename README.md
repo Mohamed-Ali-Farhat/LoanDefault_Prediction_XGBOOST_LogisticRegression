@@ -118,8 +118,6 @@ Based on SHAP values from the XGBoost model:
 Contributions are welcome! Please fork the repo and submit a pull request.
 
 ## Author
-- [Your Name or Handle]
-- Contact: [your.email@example.com]
+- [Mohamed ali Farhat]
+- Contact: [mohamedali.farhat@hotmail.com]
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
